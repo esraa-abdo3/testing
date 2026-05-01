@@ -1,0 +1,19 @@
+.status-container {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+    background: black;
+    border: none;
+    cursor: pointer;
+    font-size: 3.5rem;
+    color: red;
+    border-radius: 20%;
+    padding: 10px;
+}
+
+.liked {
+  color: white;
+  background-color: red;
+}
